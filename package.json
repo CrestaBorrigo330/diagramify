@@ -1,0 +1,42 @@
+{
+  "name": "diagramify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrestaBorrigo330/diagramify.git"
+  },
+  "author": "CrestaBorrigo330",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrestaBorrigo330/diagramify/issues"
+  },
+  "homepage": "https://github.com/CrestaBorrigo330/diagramify#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "is-falsy": "^0.0.1",
+    "is-null": "^1.0.1",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "node-fetch": "^2.7.0",
+    "nodemon": "^3.1.0",
+    "qs": "^6.12.0",
+    "querystring": "^0.2.1",
+    "react": "^18.2.0",
+    "vue": "^3.4.21",
+    "chart.js": "^1.0.0",
+    "frappe-charts": "^1.0.0",
+    "flot": "^1.0.0",
+    "chartist": "^1.0.0",
+    "cyto-router": "^1.0.0",
+    "cyto-plugin": "^1.0.0",
+    "cyto-core": "^1.0.0",
+    "cyto-editor": "^1.0.0",
+    "cyto-tracer": "^1.0.0",
+    "cyto-inspector": "^1.0.0"
+  }
+}
